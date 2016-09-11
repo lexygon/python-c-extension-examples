@@ -5,6 +5,8 @@ I have tried to explain each part basicly as I can.
 For communicating with me:
 mail: hi@buraktopal.xyz
 github: github.com/lexygon
+
+For documentation for Python/C API please visit https://docs.python.org/3/c-api/
 """
 
 from distutils.core import setup, Extension
