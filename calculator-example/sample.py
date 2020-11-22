@@ -1,4 +1,4 @@
-# importing the extension like a standart python module
+# importing the extension like a standard python module
 from calculator import *
 
 # calling functions from extension like a standart python function
